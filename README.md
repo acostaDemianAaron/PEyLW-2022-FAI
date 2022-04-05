@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=[![PEyLW.png](https://i.postimg.cc/wMTYdGLx/PEyLW.png)](https://postimg.cc/47MS6wWj) />
+  <img src="https://i.postimg.cc/wMTYdGLx/PEyLW.png" />
 </p>
 
 ## Cursada 2022
